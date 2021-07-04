@@ -4,11 +4,11 @@
 
 ### Tests & Deployment :
 
-[Test]()
+[Test](https://github.com/Sukina12/basic-auth/actions)
 
 [Deployment]()
 
-[PullRequest]()
+[PullRequest](https://github.com/Sukina12/basic-auth/pull/1)
 
 #### Setup
 
