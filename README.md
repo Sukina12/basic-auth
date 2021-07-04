@@ -6,7 +6,7 @@
 
 [Test](https://github.com/Sukina12/basic-auth/actions)
 
-[Deployment]()
+[Deployment](https://sukina-basic-auth.herokuapp.com/)
 
 [PullRequest](https://github.com/Sukina12/basic-auth/pull/1)
 
