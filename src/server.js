@@ -19,7 +19,7 @@ app.use(router);
 
 app.use (express.urlencoded({extended : true}));
 app.get('/', (req, res) => {
-  res.status(200).send ('Hello From Sukina Class 4 !');
+  res.status(200).send ('Hello From Sukina Class 6 !');
 });
 app.use ('*', notFoundHandler);
 app.use (errorHandler);
